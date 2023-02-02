@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[888],{650:function(e,t,l){l.r(t);var r=l(7294),a=l(4058),n=l(8008),s=l(9357);t.default=(0,a.injectIntl)((e=>{let{intl:t}=e;return r.createElement(n.Z,null,r.createElement(s.Z,{lang:t.locale,title:""+t.formatMessage({id:"title"})}),r.createElement("h1",null,"TermService Page"))}))}}]);
+//# sourceMappingURL=component---src-pages-terms-of-service-js-2dff2a79ab9039b35815.js.map
